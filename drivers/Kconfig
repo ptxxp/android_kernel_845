@@ -212,8 +212,6 @@ source "drivers/sensors/Kconfig"
 
 source "drivers/tee/Kconfig"
 
-source "drivers/gps/Kconfig"
-
-source "drivers/halls/Kconfig"
+source "drivers/energy_model/Kconfig"
 
 endmenu
