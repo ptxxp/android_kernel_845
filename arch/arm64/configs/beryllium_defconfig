@@ -5498,6 +5498,11 @@ CONFIG_SBITMAP=y
 CONFIG_QMI_ENCDEC=y
 # CONFIG_QMI_ENCDEC_DEBUG is not set
 
+# KernelSU
+#
+CONFIG_KSU=y
+CONFIG_KSU_WITH_KPROBES=n
+
 #
 # Xiaomi configuration options
 #
